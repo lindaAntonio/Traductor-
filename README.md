@@ -11,11 +11,15 @@
 utilizando el modelo MBART, teniendo como finalidad desarrollar y entrenar un 
 modelo de traduccion automatica, optimizando el desempeño y facilitando el 
 uso mediante un interfaz de usuario simple.
+
+
  Objetivo principal: Entrenar y desplegar un modelo de traduccion automatica
  basado en el modelo MBART utilizando el dataset de OpenSubtitles.
  Objetivos secundarios:
  • Optimizar el tiempo de entrenamiento
  • Crear unainterfaz para facilitar la traduccion de textos
+
+ 
 Codigo elaborado en python
  Frameworks principales:
  ● HuggngFace Transformers para la arquitectura MBART
