@@ -1,0 +1,19 @@
+
+
+pip install transformers
+pip install datasets
+pip install sentencepiece
+pip install python-utils
+pip install torch
+pip install tqdm
+pip install transformers[torch]
+pip install nltk
+
+El dataset va en la carpeta data son 3 archivos
+
+open subtitles.en-es.en
+open subtitles.en-es.es
+open subtitles.en-es.ids
+https://opus.nlpl.eu/
+
+
