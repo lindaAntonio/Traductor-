@@ -2,6 +2,8 @@
  Lo que se busca con este proyecto es que el usuario(s) pueda comunicarse de una manera
  entendible con las personas que no puedan hablar su mismo idioma, de tal forma que esto lo
  pueda ayudar a disfrutar de la experiencia de viajar.
+
+ 
  El proyecto en si es que a partir de una interfaz a la cual el usuario va tener acceso pueda
  ingresar una frase o palabra en el idioma que el necesita, y que al oprimir el botón de
  "traducir" pueda ver la traducción de la misma en el idioma que selecciono
